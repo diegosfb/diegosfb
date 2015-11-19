@@ -14,7 +14,7 @@ namespace ConsoleApplication1
 
             while (i < 100)
             {
-                Console.Out.WriteLine("HOLA COMO VA");
+                Console.Out.WriteLine("HOLA COMO VA 2");
                 i++;
             }
 
